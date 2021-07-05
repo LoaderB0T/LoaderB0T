@@ -1,16 +1,13 @@
-### Hi there 👋
+[![AwdwareBanner](https://user-images.githubusercontent.com/37637338/124481340-76a98f00-dda8-11eb-9b4a-ec0eeee7fcc4.png)](https://two.awdware.de)
 
-<!--
-**LoaderB0T/LoaderB0T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Janik</h1>
+<h3 align="center">A Software Developer from Germany focussing on TypeScript, Angular and NodeJS.</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=loaderb0t&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaderb0t&theme=radical&layout=compact">
+</div>
