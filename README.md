@@ -1,4 +1,8 @@
-[![AwdwareBanner](https://user-images.githubusercontent.com/37637338/124481340-76a98f00-dda8-11eb-9b4a-ec0eeee7fcc4.png)](https://awdware.de)
+<a href="https://awdware.de" target="_blank">
+<img src="https://user-images.githubusercontent.com/37637338/124481340-76a98f00-dda8-11eb-9b4a-ec0eeee7fcc4.png">
+</a>
+
+<br>
 
 <h1 align="center">Hi 👋, I'm Janik</h1>
 <h3 align="center">A Software Developer from Germany focussing on TypeScript, Angular and NodeJS.</h3>
