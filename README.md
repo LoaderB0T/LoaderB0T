@@ -35,5 +35,8 @@
 </div>
 <br>
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/LoaderB0T/LoaderB0T/main/img/contributions.png">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoaderB0T/LoaderB0T/main/img/contributions.png" />
+    <img src="https://raw.githubusercontent.com/LoaderB0T/LoaderB0T/main/img/contributions-light.png">
+  </picture>
 </p>
