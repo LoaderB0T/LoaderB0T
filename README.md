@@ -29,7 +29,10 @@
 </p>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loaderb0t&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=loaderb0t&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loaderb0t&theme=buefy&count_private=true&show_icons=true&include_all_commits=true">
+  </picture>
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaderb0t&theme=radical&layout=compact">
 </div>
