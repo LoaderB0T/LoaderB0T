@@ -30,13 +30,13 @@
 <br>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=loaderb0t&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loaderb0t&theme=buefy&count_private=true&show_icons=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-loaderb0t.vercel.app/api?username=loaderb0t&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats-loaderb0t.vercel.app/api?username=loaderb0t&theme=buefy&count_private=true&show_icons=true&include_all_commits=true">
   </picture>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=loaderb0t&theme=radical&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaderb0t&theme=buefy&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-loaderb0t.vercel.app/api/top-langs/?username=loaderb0t&theme=radical&layout=compact" />
+    <img align="center" src="https://github-readme-stats-loaderb0t.vercel.app/api/top-langs/?username=loaderb0t&theme=buefy&layout=compact">
   </picture>
 </div>
 <br>
